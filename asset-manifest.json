@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/city-tour/static/css/main.88579e12.chunk.css",
+    "main.js": "/city-tour/static/js/main.2c5db87c.chunk.js",
+    "main.js.map": "/city-tour/static/js/main.2c5db87c.chunk.js.map",
+    "runtime-main.js": "/city-tour/static/js/runtime-main.1333d393.js",
+    "runtime-main.js.map": "/city-tour/static/js/runtime-main.1333d393.js.map",
+    "static/js/2.84ef5f7a.chunk.js": "/city-tour/static/js/2.84ef5f7a.chunk.js",
+    "static/js/2.84ef5f7a.chunk.js.map": "/city-tour/static/js/2.84ef5f7a.chunk.js.map",
+    "index.html": "/city-tour/index.html",
+    "precache-manifest.5d8f769ffc5f96bbf0adbcc220cd559f.js": "/city-tour/precache-manifest.5d8f769ffc5f96bbf0adbcc220cd559f.js",
+    "service-worker.js": "/city-tour/service-worker.js",
+    "static/css/main.88579e12.chunk.css.map": "/city-tour/static/css/main.88579e12.chunk.css.map",
+    "static/js/2.84ef5f7a.chunk.js.LICENSE.txt": "/city-tour/static/js/2.84ef5f7a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/city-tour/static/media/logo.12a6659f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1333d393.js",
+    "static/js/2.84ef5f7a.chunk.js",
+    "static/css/main.88579e12.chunk.css",
+    "static/js/main.2c5db87c.chunk.js"
+  ]
+}
