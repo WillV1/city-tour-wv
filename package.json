@@ -1,8 +1,7 @@
 {
-  "name": "city-tour",
+  "name": "city-tour-api",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://willv1.github.io/city-tour",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
     "@fortawesome/free-brands-svg-icons": "^5.14.0",
@@ -12,6 +11,7 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "bootstrap": "^4.5.0",
+    "express": "^4.17.1",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-bootstrap": "^1.2.2",
@@ -20,12 +20,11 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node server/server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "npm run build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -45,5 +44,19 @@
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.14.0",
     "gh-pages": "^3.1.0"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillV1/city-tour.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "William VanHook",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WillV1/city-tour/issues"
   }
 }
