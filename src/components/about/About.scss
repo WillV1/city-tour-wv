@@ -1,0 +1,22 @@
+@import "../../index.scss";
+
+
+.about-card{
+    border: none;
+}
+
+.about-page {
+    margin: 50px;
+    background-color: $mainGrey;
+}
+
+
+@media screen and (min-width:768px) {
+    .tour{
+        display:grid;
+        grid-template-columns: 2fr 3fr;
+        grid-column-gap: 1rem;
+    }
+}
+
+
