@@ -15,7 +15,9 @@ const Home = () => {
                 <Card className="home-card text">
                     <Card.Body className="home-text">
                         <h5>Welcome to City Tours, your one-stop location to learn about a variety of fun tours in fun locations.
-                        Check out our pages to learn more about us and the tours we have to offer!
+                            We provide an option of tours for you to check out. If you are interested in a tour, you can click 
+                            for more information. Otherwise, you can remove the tour as an option. Tour options are updated on 
+                            a periodic basis, so check out the tour page to learn more!
                         </h5>
                     </Card.Body>
                 </Card>

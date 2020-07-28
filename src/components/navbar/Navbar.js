@@ -18,7 +18,7 @@ function Navigation() {
         <Router>
             <Container fluid={true}>
                 <Navbar bg="dark" variant="dark" className="navbar">
-                    <Navbar.Brand href="#home"><img src={logo} alt="city tours company"/></Navbar.Brand>
+                    <Navbar.Brand href="/"><img src={logo} alt="city tours company"/></Navbar.Brand>
                     <Nav className="mr-auto">
                         <Nav.Link className="nav-link" href="/">Home</Nav.Link>
                         <Nav.Link className="nav-link" href="/about">About</Nav.Link>
