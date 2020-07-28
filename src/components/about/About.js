@@ -7,7 +7,7 @@ const About = () => {
             <Card className="about-card">
                 <Card.Body className ="about-page">
                 <h1>About this App</h1>
-                <h2>App to provide user information about potential walking tours</h2>
+                <h4>App to provide user information about potential walking tours</h4>
                 <h6>Version: 1.0.0</h6>
                 </Card.Body>
             </Card>
